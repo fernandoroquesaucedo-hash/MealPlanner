@@ -1,0 +1,14 @@
+{
+  "name": "NutriLiz — Planificador de Menú",
+  "short_name": "NutriLiz",
+  "description": "Planificador de menú semanal personalizado",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FAF6F1",
+  "theme_color": "#5D4037",
+  "orientation": "portrait",
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
